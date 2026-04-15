@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Jhonatam Kauã</h1>
-<h3 align="center">dev from Ceará</h3>
+# Hi 👋, I'm jhonatam kaua
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jktremdev" alt="jktremdev" /></a> </p>
 
