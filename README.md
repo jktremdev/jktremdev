@@ -6,16 +6,17 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+em+formação;Backend+%7C+Java+%7C+Python;Sempre+evoluindo+um+nível+por+dia&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Analista+de+Dados;Python+%7C+SQL+%7C+BI;Transformando+dados+em+insights&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
+- 📊 Analista de Dados
 - 📫 Email: **jhonatamkaua2@gmail.com**
-- 💻 Foco em Backend e Banco de Dados
-- 🚀 Estudando para me tornar desenvolvedor completo
+- 🧠 Foco em análise, visualização e modelagem de dados
+- 🚀 Sempre evoluindo em dados e tecnologia
 - 📍 Brasil
 
 ---
@@ -34,10 +35,10 @@
 
 ---
 
-## 🧠 Linguagens e Tecnologias
+## 🧠 Linguagens e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,c,docker,git,java,linux,mysql,postgres,py,spring&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,docker,linux&perline=6" />
 </p>
 
 ---
@@ -58,14 +59,6 @@
 
 ---
 
-## 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jktremdev&theme=onedark&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
 ## 📈 Contador de visitas
 
 <p align="center">
@@ -74,46 +67,28 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## 📊 Foco de atuação
 
-<p align="center">
-
-<a href="https://github.com/jktremdev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jktremdev&repo=SEU-REPO-AQUI&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/jktremdev">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jktremdev&repo=SEU-REPO-AQUI-2&theme=tokyonight" />
-</a>
-
-</p>
-
----
-
-## ⚙️ Skills por área
-
-**Backend**
-- Java ☕
-- Spring Boot 🌱
+**Análise de Dados**
 - Python 🐍
+- Pandas 📊
+- SQL 🗄️
+- ETL 🔄
 
-**Database**
-- MySQL 🗄️
-- PostgreSQL 🐘
+**Banco de Dados**
+- MySQL
+- PostgreSQL
 
-**DevOps**
-- Docker 🐳
-- Linux 🐧
-- AWS ☁️
-
-**Versionamento**
+**Ferramentas**
 - Git & GitHub
+- Docker
+- Linux
 
 ---
 
 ## 🎯 Objetivo
 
-Construir uma carreira sólida como desenvolvedor backend, evoluindo constantemente em arquitetura de software, APIs e sistemas escaláveis.
+Atuar como Analista de Dados, transformando dados em insights estratégicos para apoiar decisões de negócio e otimizar processos.
 
 ---
 
