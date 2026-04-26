@@ -13,8 +13,8 @@
 ## 👨‍💻 Sobre mim
 
 - 💻 Engenheiro de Software em formação  
-- ⚙️ Foco em desenvolvimento backend e sistemas escaláveis  
-- 🚀 Construção de APIs e aplicações distribuídas  
+- ⚙️ Foco em backend e sistemas escaláveis  
+- 🚀 Desenvolvimento de APIs e aplicações distribuídas  
 - ☁️ Experiência com cloud computing e infraestrutura moderna  
 - 📍 Brasil  
 
@@ -28,9 +28,8 @@
 - 🐍 Python  
 
 ### ☁️ Cloud & DevOps
-- ☁️ AWS (EC2, S3, conceitos de cloud computing)  
+- ☁️ AWS (EC2, S3 e conceitos de cloud computing)  
 - 🐳 Docker  
-- ⚙️ Noções de arquitetura em nuvem  
 
 ### 🗄️ Banco de Dados
 - PostgreSQL  
@@ -45,10 +44,7 @@
 
 ## 🚀 Projetos
 
-- 🔗 Sistema de Super Trunfo em C (lógica e estrutura de dados)  
-- 🔗 API REST com Spring Boot (em desenvolvimento)  
-- 🔗 Assistente virtual em Java (T.H.A.M.I.R.E.S)  
-- 🔗 Projetos de estudo em Python e algoritmos  
+- 🔗 **Gitlytic** — Aplicação web full stack que analisa perfis do GitHub em tempo real, exibindo estatísticas como linguagens mais usadas, repositórios mais populares, total de estrelas e ranking global entre usuários  
 
 ---
 
