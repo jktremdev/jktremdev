@@ -1,4 +1,3 @@
-
 <!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Jhonatam%20Kauã&fontSize=35&fontColor=ffffff" />
@@ -6,18 +5,50 @@
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Analista+de+Dados;Python+%7C+SQL+%7C+BI;Transformando+dados+em+insights&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenheiro+de+Software+Backend;Java+Spring+Boot+%7C+.NET+%7C+Python;Cloud+%7C+AWS+%7C+Docker;Construindo+sistemas+escaláveis+e+APIs&center=true&width=650&height=50">
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 📊 Analista de Dados
-- 📫 Email: **jhonatamkaua2@gmail.com**
-- 🧠 Foco em análise, visualização e modelagem de dados
-- 🚀 Sempre evoluindo em dados e tecnologia
-- 📍 Brasil
+- 💻 Engenheiro de Software em formação  
+- ⚙️ Foco em desenvolvimento backend e sistemas escaláveis  
+- 🚀 Construção de APIs e aplicações distribuídas  
+- ☁️ Experiência com cloud computing e infraestrutura moderna  
+- 📍 Brasil  
+
+---
+
+## 🛠️ Stack Técnica
+
+### 💻 Backend
+- ☕ Java + Spring Boot  
+- 🔵 .NET (C#)  
+- 🐍 Python  
+
+### ☁️ Cloud & DevOps
+- ☁️ AWS (EC2, S3, conceitos de cloud computing)  
+- 🐳 Docker  
+- ⚙️ Noções de arquitetura em nuvem  
+
+### 🗄️ Banco de Dados
+- PostgreSQL  
+- MySQL  
+
+### 🔧 Ferramentas
+- Git & GitHub  
+- Linux  
+- APIs REST  
+
+---
+
+## 🚀 Projetos
+
+- 🔗 Sistema de Super Trunfo em C (lógica e estrutura de dados)  
+- 🔗 API REST com Spring Boot (em desenvolvimento)  
+- 🔗 Assistente virtual em Java (T.H.A.M.I.R.E.S)  
+- 🔗 Projetos de estudo em Python e algoritmos  
 
 ---
 
@@ -31,14 +62,6 @@
   <a href="https://www.linkedin.com/in/jhonatam-kau%C3%A3-a7aa55259/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-</p>
-
----
-
-## 🧠 Linguagens e Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,docker,linux&perline=6" />
 </p>
 
 ---
@@ -59,36 +82,9 @@
 
 ---
 
-## 📈 Contador de visitas
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jktremdev&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 📊 Foco de atuação
-
-**Análise de Dados**
-- Python 🐍
-- Pandas 📊
-- SQL 🗄️
-- ETL 🔄
-
-**Banco de Dados**
-- MySQL
-- PostgreSQL
-
-**Ferramentas**
-- Git & GitHub
-- Docker
-- Linux
-
----
-
 ## 🎯 Objetivo
 
-Atuar como Analista de Dados, transformando dados em insights estratégicos para apoiar decisões de negócio e otimizar processos.
+Atuar como Engenheiro de Software Backend, desenvolvendo sistemas escaláveis, APIs robustas e soluções em cloud utilizando Java, .NET, Python e AWS.
 
 ---
 
