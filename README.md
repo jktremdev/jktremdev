@@ -1,99 +1,72 @@
-<div align="center">
+# 👋 Olá! Eu sou o Jhonatam Kauã
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:111827,100:0b0f1a&height=190&section=header&text=Jhonatam%20Kauã%20Silva%20Alves&fontSize=38&fontColor=e5e7eb&animation=fadeIn&fontAlignY=40" />
+💻 Desenvolvedor Full Stack em formação, apaixonado por criar aplicações escaláveis, APIs robustas e interfaces modernas.
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=38bdf8&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Python+%7C+SQL+%7C+AWS+%7C+Excel;ETL+%7C+Data+Engineering+Basics+%7C+Analytics;Transformando+dados+em+decis%C3%B5es" />
-
-</div>
+Atualmente estudo **Análise e Desenvolvimento de Sistemas** e estou focado em evoluir minhas habilidades em desenvolvimento web, arquitetura de software e boas práticas de programação.
 
 ---
 
-## 📊 Perfil Profissional
+## 🚀 Tecnologias
 
-Analista de Dados em formação com foco em engenharia de dados e análise exploratória. Experiência prática com Python, SQL e ferramentas de análise, além de fundamentos em cloud computing com AWS. Forte capacidade de transformar dados brutos em insights estruturados e acionáveis.
+### 💻 Front-end
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
----
+### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🧠 Stack Técnica
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<div align="center">
-
-### Linguagens
-Python • SQL  
-
-### Data & Analytics
-Pandas • NumPy • Excel Avançado • Power BI (básico)
-
-### Engenharia de Dados
-ETL básico • APIs REST • Processamento de dados
-
-### Cloud & Infra
-AWS (S3 • EC2 • conceitos de pipeline)
-
-### Ferramentas
-Git • GitHub • Jupyter Notebook • VS Code
-
-</div>
+### 🛠 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Projeto Principal
+## 📚 Atualmente estudando
 
-### Git Analytics System
-Sistema de análise de dados de repositórios GitHub com foco em métricas de desenvolvimento.
-
-- Integração com GitHub API  
-- Coleta e estruturação de dados de commits e repositórios  
-- Processamento com Python e Pandas  
-- Geração de métricas e insights de atividade  
-
-**Stack:** Python • Pandas • API REST • Data Analysis
+- Desenvolvimento Full Stack
+- TypeScript
+- Next.js
+- Express.js
+- APIs REST
+- Docker
+- Arquitetura de Software
 
 ---
 
-## 📈 Foco Atual
+## 📊 GitHub Stats
 
-- Análise exploratória de dados (EDA)  
-- Pipelines de dados (ETL)  
-- Automação de coleta e processamento  
-- Cloud aplicada a dados (AWS)  
-- Visualização e storytelling com dados  
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jktremdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jktremdev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🎓 Formação
+## 🔥 GitHub Streak
 
-Análise e Desenvolvimento de Sistemas (ADS)  
-Foco em dados, automação e desenvolvimento de sistemas
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=jktremdev&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🌐 Contato
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jhonatam-kauã-software-engineer)
 
-LinkedIn  
-https://www.linkedin.com/in/jhonatam-kau%C3%A3-a7aa55259/
-
-GitHub  
-https://github.com/jktremdev  
-
-Email  
-jhonatamkaua2@gmail.com  
-
-Telefone  
-+55 (85) 99181-8781  
-
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhonatamkaua2@gmail.com)
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,50:111827,100:0b0f1a&height=120&section=footer" />
-
-</div>
+> *"Transformando ideias em software, uma linha de código por vez."*
